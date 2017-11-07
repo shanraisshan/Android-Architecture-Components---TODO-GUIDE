@@ -30,6 +30,7 @@ TODO Guide for implementing Android Architecture Components in your apps
 
 1) **Official** - Android Architecture Components : https://github.com/googlesamples/android-architecture-components
 2) **Official** - Google Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
+3) Florina - Hello World App (MVP vs MVVM) : https://github.com/florina-muntenescu/MVPvsMVVM
 
 # Links
 

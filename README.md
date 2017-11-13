@@ -17,9 +17,10 @@ TODO Guide for implementing Android Architecture Components in your apps
 09) [_18/Oct/17_] | [**19:30**] | [Data Persistence In Android - Florina](https://www.youtube.com/watch?v=DeIKyVfCvC0) Conference: DroidcOn Berlin
 10) [_31/Oct/17_] | [**40:47**] | [ViewModels, LiveData and Lifecycles, oh my! - Lyla](https://www.youtube.com/watch?v=SlZVYkhoSq8) Conference : Droidcon NYC 17
 11) [_31/Oct/17_] | [**38:32**] | [Clean app design with Architecture Components - Chuck](https://www.youtube.com/watch?v=i1-7S-RxfvQ) Conference : Droidcon NYC 17
-12) [_06/Nov/17_] | [**03:59**] | [Architecture Components: Room - Florina](https://www.youtube.com/watch?v=H7I3zs-L-1w) Official stable 1.0.0 release video
-13) [_08/Nov/17_] | [**04:51**] | [Architecture Components: ViewModel - Lyla](https://www.youtube.com/watch?v=c9-057jC1ZA) Official Android Developer
-14) [_10/Nov/17_] | [**05:15**] | [Architecture Components: LiveData and Lifecycle - Lyla](https://www.youtube.com/watch?v=jCw5ib0r9wg) Official Android Developer
+12) [_31/Oct/17_] | [**42:03**] | [Android Architecture Round Table - 9 MEMBERS PANEL](https://www.youtube.com/watch?v=nP_B5-jrbsY) Conference : Droidcon NYC 17
+13) [_06/Nov/17_] | [**03:59**] | [Architecture Components: Room - Florina](https://www.youtube.com/watch?v=H7I3zs-L-1w) Official stable 1.0.0 release video
+14) [_08/Nov/17_] | [**04:51**] | [Architecture Components: ViewModel - Lyla](https://www.youtube.com/watch?v=c9-057jC1ZA) Official Android Developer
+15) [_10/Nov/17_] | [**05:15**] | [Architecture Components: LiveData and Lifecycle - Lyla](https://www.youtube.com/watch?v=jCw5ib0r9wg) Official Android Developer
 
 # Podcasts
 

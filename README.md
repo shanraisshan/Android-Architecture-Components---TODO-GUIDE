@@ -33,8 +33,14 @@ TODO Guide for implementing Android Architecture Components in your apps
 # Samples
 
 1) **Official** - Android Architecture Components : https://github.com/googlesamples/android-architecture-components
-2) **Official** - Google Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
-3) Florina - Hello World App (MVP vs MVVM) : https://github.com/florina-muntenescu/MVPvsMVVM
+2) **Official** - Google Code Labs - Build an App with Architecture Components : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
+3) **Official** - Google Code Labs - Android Room with a View : https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0
+4) **Official** - Google Code Labs - Android lifecycle-aware components codelab : https://codelabs.developers.google.com/codelabs/android-lifecycles/#0
+5) **Official** - Google Code Labs - Background Work with WorkManager : https://codelabs.developers.google.com/codelabs/android-workmanager/
+6) **Official** - Google Code Labs - Navigation Codelab : https://codelabs.developers.google.com/codelabs/android-navigation/#0
+7) **Official** - Google Code Labs - Android Paging codelab : https://codelabs.developers.google.com/codelabs/android-paging/#0
+8) **Official** - Google Code Labs - Android Persistence codelab : https://codelabs.developers.google.com/codelabs/android-persistence/#0
+9) Florina - Hello World App (MVP vs MVVM) : https://github.com/florina-muntenescu/MVPvsMVVM
 
 # Links
 

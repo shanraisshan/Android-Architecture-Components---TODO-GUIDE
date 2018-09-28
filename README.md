@@ -22,6 +22,7 @@ TODO Guide for implementing Android Architecture Components in your apps
 14) [_08/Nov/17_] | [**04:51**] | [Architecture Components: ViewModel - Lyla](https://www.youtube.com/watch?v=c9-057jC1ZA) Official Android Developer
 15) [_10/Nov/17_] | [**05:15**] | [Architecture Components: LiveData and Lifecycle - Lyla](https://www.youtube.com/watch?v=jCw5ib0r9wg) Official Android Developer
 16) [_09/May/18_] | [**34:06**] | [Android Jetpack: what's new in Architecture Components (Google I/O '18) - Yigit, Lukas](https://www.youtube.com/watch?v=pErTyQpA390) Official Android Developer
+17) [_14/May/18_] | [**07:23**] | [Android Jetpack: Improve Your App's Architecture](https://www.youtube.com/watch?v=7p22cSzniBM) Official Android Developer
 
 # Podcasts
 
